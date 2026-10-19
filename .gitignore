@@ -1,0 +1,13 @@
+/results
+/logs
+/RBSE/results
+/scripts/__pycache__
+/RBSE/__pycache__
+/__pycache__
+*.npz
+*.png
+*.json
+/code_backups
+/saved_models
+*.pt
+*.pyc
